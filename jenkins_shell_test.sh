@@ -1,9 +1,16 @@
 #!/bin/bash
 
 echo "******************* Executing jenkins_shell_test.sh *******************"
+echo ""
 echo "Current Directory : `pwd`"
+echo ""
 ls -l
+echo ""
 echo "Current Date : `date`"
+echo ""
+echo "Jenkins service status"
 systemctl status jenkins
-systemctl status ssh
-who am i
+echo ""
+who
+echo ""
+
