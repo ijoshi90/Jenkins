@@ -13,4 +13,6 @@ systemctl status jenkins
 echo ""
 who
 echo ""
+ip a
+echo "* Networking Details *"
 
