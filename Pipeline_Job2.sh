@@ -1,3 +1,3 @@
 echo "*** Pipeline Job 2 ***"
-echo "Current Date : `date`"
+ip a
 echo "*** End of Job 2"
