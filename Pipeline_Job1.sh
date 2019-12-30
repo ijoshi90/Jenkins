@@ -1,3 +1,5 @@
+echo ""
+echo ""
 echo "*** Pipeline Job 1 ***"
 echo "Current Date : `date`"
 echo "Jenkins service status"
