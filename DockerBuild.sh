@@ -1,6 +1,6 @@
 ls -lrt
 pwd
-mv docker_build.sh /home/akshay/.
+cp docker_build.sh /home/akshay/
 cd /home/akshay/
 pwd
 sh docker_build.sh
