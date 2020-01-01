@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Simple test scripts
 echo "******************* Executing jenkins_shell_test.sh *******************"
 echo ""
 echo "Current Directory : `pwd`"
